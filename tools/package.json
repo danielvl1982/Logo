@@ -1,0 +1,17 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "clipper-lib": "^6.4.2",
+    "earcut": "^3.2.4",
+    "opentype.js": "^2.0.0"
+  }
+}
